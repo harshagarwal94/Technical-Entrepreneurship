@@ -2,7 +2,7 @@
 Provides information regarding Technical Entrepreneurship taught at VIT (Vellore Institute of Tecnology)
 (VIT BHOPAL UNIVERSITY)
 
-# Course Instructor :- 
+### Course Instructor :- Dr. Vidhi Agrawal
 
 # Disclaimer
 * For Educational Purpose
